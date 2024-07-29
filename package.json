@@ -1,0 +1,15 @@
+{
+  "name": "moizali2-45-assignment",
+  "version": "2.0.2",
+  "description": "This is the file for 45 assignments",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "moiz25-45-assignment": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
